@@ -4,7 +4,7 @@
 
 ## Операции над матрицами
 
-<img src="images/calc1.png" width="500" height="500"/>
+<img src="images/calc1.png" width="600" height="600"/>
 
 ## Конструкторы и деструктор
 
