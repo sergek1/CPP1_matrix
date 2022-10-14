@@ -8,8 +8,8 @@
 
 ## Конструкторы и деструктор
 
-<img src="images/calc2.png" alt="network_route" width="500"/>
+<img src="images/calc2.png" width="700"/>
 
 ## Перегрузка операторов
 
-<img src="images/calc3.png" alt="network_route" width="500"/>
+<img src="images/calc3.png" width="700"/>
